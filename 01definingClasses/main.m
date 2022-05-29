@@ -8,5 +8,6 @@ int main(int argc, const char *argv [])
 		Human *christopher;
 		christopher = [[Human alloc] init];
 		[christopher sayName];
+		[christopher shoutName];
 	}
 }
