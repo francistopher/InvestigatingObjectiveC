@@ -1,4 +1,10 @@
+CURRENTLY ARCHIVED, HAVE TO INVEST MORE TIME ON MY FREELANCING GIG
+
 # Investigating Objective-C
+
+- According to Zip recruiter, the average salary is 120k+
+- To interface between Swift and C
+- To Develop iOS/MacOS applications the old school way
 
 ## Contents :meat_on_bone:
 
@@ -14,9 +20,5 @@
 
 ## To Do
 
-- Rewrite file to write upon
-- Write header to file
-- Write upper bars to file
-- Write parsed contents to file as NSLog statement(s)
-- Write lower bars to file
-- Translate ObjectiveC/C code to ObjectiveC
+- introduce second file containing commentary
+- merge code and commentary file to output file
